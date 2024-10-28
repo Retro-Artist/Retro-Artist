@@ -27,34 +27,3 @@ Enthusiast of 3D graphics and computational science with a curious mind for low-
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=flat)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
-
----
-
-## 🌌 Featured Projects
-
-### 🧬 [3D Scientific Visualizer](https://github.com/Retro-Artist/3DScientificVisualizer)
-An interactive tool for real-time visualization and manipulation of 3D data, focused on scientific simulations and high-precision modeling. This project combines physics algorithms with advanced rendering.
-
-### 🖼️ [OpenGL Render Engine](https://github.com/Retro-Artist/OpenGLRenderEngine)
-A rendering engine built in C++ with OpenGL, exploring lighting techniques, shaders, and texturing to create highly realistic 3D scenes.
-
----
-
-## 📈 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Retro-Artist&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retro-Artist&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
-
----
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/retro-artist)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FFDD00?logo=web&logoColor=black&style=flat)](https://retro-artist.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:retro.artist@example.com)
-
----
-
-Thank you for visiting my profile! Explore my projects and feel free to reach out for collaborations or discussions on computational science, graphics, and more! 🚀
