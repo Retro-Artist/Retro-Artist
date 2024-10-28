@@ -2,7 +2,7 @@
 
 ![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Retro-Artist's+GitHub)
 
-Welcome to my GitHub profile! I am a 3D graphics and computational science enthusiast with a strong background in low-level languages and application development. If you're interested in performance, algorithms, and advanced rendering, you're in the right place! 🚀
+Enthusiast of 3D graphics and computational science with a curious mind for low-level languages and full-stack development. Passionate about experimenting with code and exploring performance, algorithms, and rendering techniques! 🚀
 
 ---
 
