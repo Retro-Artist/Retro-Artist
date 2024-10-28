@@ -1,21 +1,21 @@
-# 💻 Retro-Artist | 3D Graphics & Computational Science Enthusiast 🌐
+# 👾 Retro-Artist 🎨
 
 ![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Retro-Artist's+GitHub)
 
-Bem-vindo ao meu perfil GitHub! Sou um entusiasta de gráficos 3D e ciência computacional com sólida experiência em linguagens de baixo nível e desenvolvimento de aplicações. Se você é interessado em performance, algoritmos e renderização avançada, você está no lugar certo! 🚀
+Welcome to my GitHub profile! I am a 3D graphics and computational science enthusiast with a strong background in low-level languages and application development. If you're interested in performance, algorithms, and advanced rendering, you're in the right place! 🚀
 
 ---
 
-## 📜 Sobre Mim
+## 📜 About Me
 
-- 💡 Entusiasta de **gráficos 3D** e **algoritmos de renderização**
-- 🖥️ Programador com foco em **ciência computacional** e **desempenho**
-- 🌍 Apaixonado por **C/C++**, **PHP**, e linguagens de baixo nível
-- 🔍 Explorando constantemente novos métodos para otimizar **aplicações gráficas** e **modelagem computacional**
+- 💡 Enthusiast in **3D graphics** and **rendering algorithms**
+- 🖥️ Programmer focused on **computational science** and **performance**
+- 🌍 Passionate about **C/C++**, **PHP**, and low-level languages
+- 🔍 Constantly exploring new methods to optimize **graphic applications** and **computational modeling**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
@@ -30,26 +30,26 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta de gráficos 3D e ciência com
 
 ---
 
-## 🌌 Projetos em Destaque
+## 🌌 Featured Projects
 
 ### 🧬 [3D Scientific Visualizer](https://github.com/Retro-Artist/3DScientificVisualizer)
-Uma ferramenta interativa para visualização e manipulação de dados 3D em tempo real, focada em simulações científicas e modelagem de alta precisão. Este projeto combina algoritmos de física com renderização avançada.
+An interactive tool for real-time visualization and manipulation of 3D data, focused on scientific simulations and high-precision modeling. This project combines physics algorithms with advanced rendering.
 
 ### 🖼️ [OpenGL Render Engine](https://github.com/Retro-Artist/OpenGLRenderEngine)
-Um motor de renderização construído em C++ com OpenGL, explorando técnicas de iluminação, shaders e texturização para criar cenas 3D com realismo impressionante.
+A rendering engine built in C++ with OpenGL, exploring lighting techniques, shaders, and texturing to create highly realistic 3D scenes.
 
 ---
 
-## 📈 Estatísticas
+## 📈 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Retro-Artist&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retro-Artist&layout=compact&theme=dark" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=Retro-Artist&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retro-Artist&layout=compact&theme=dark" alt="Most Used Languages">
 </p>
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/retro-artist)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FFDD00?logo=google-chrome&logoColor=black&style=flat)](https://retro-artist.dev)
@@ -57,4 +57,4 @@ Um motor de renderização construído em C++ com OpenGL, explorando técnicas d
 
 ---
 
-Obrigado por visitar meu perfil! Explore meus projetos e sinta-se à vontade para entrar em contato para colaborações ou discussões sobre ciência computacional, gráficos e mais! 🚀
+Thank you for visiting my profile! Explore my projects and feel free to reach out for collaborations or discussions on computational science, graphics, and more! 🚀
