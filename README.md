@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a 3D graphics and computational science enthu
 
 ---
 
-## 📜 About Me
+## 📖 About Me
 
 - 💡 Enthusiast in **3D graphics** and **rendering algorithms**
 - 🖥️ Programmer focused on **computational science** and **performance**
@@ -52,7 +52,7 @@ A rendering engine built in C++ with OpenGL, exploring lighting techniques, shad
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/retro-artist)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FFDD00?logo=google-chrome&logoColor=black&style=flat)](https://retro-artist.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFDD00?logo=web&logoColor=black&style=flat)](https://retro-artist.dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:retro.artist@example.com)
 
 ---
