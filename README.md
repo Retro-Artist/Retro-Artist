@@ -1,6 +1,6 @@
 # 👾 Retro-Artist 🎨
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Retro-Artist's+GitHub)
+![Banner]([https://via.placeholder.com/1200x300?text=Welcome+to+Retro-Artist's+GitHub](https://i.imgur.com/BXWUwZC.mp4))
 
 Enthusiast of 3D graphics and computational science with a curious mind for low-level languages and full-stack development. Passionate about experimenting with code and exploring performance, algorithms, and rendering techniques! 🚀
 
