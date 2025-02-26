@@ -1,7 +1,5 @@
 # 👾 Retro-Artist 🎨
 
-![Banner]([https://static.wikia.nocookie.net/heman/images/c/c1/Filmationskeletoronthrone.png/revision/latest?cb=20210712162510](https://pbs.twimg.com/media/GkrQQV2XIAA6uGD?format=jpg&name=large))
-
 Enthusiast of 3D graphics and computational science with a curious mind for low-level languages and full-stack development. Passionate about experimenting with code and exploring performance, algorithms, and rendering techniques! 🚀
 
 ---
