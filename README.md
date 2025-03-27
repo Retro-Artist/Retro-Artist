@@ -1,15 +1,13 @@
-# Retro-Artist
+# Rhuan Lucas (Retro Artist)
 
-Enthusiast of 3D graphics and computational science with a curious mind for low-level languages and full-stack development. Passionate about experimenting with code and exploring performance, algorithms, and rendering techniques! 🚀
+Enthusiast of 3D graphics and computational science with a curious mind for low-level languages and full-stack development. Passionate about experimenting with code and exploring performance, algorithms, and rendering techniques!
 
 ---
 
 ## 📖 About Me
-
-- 💡 Enthusiast in **3D graphics** and **rendering algorithms**
-- 🖥️ Programmer focused on **computational science** and **performance**
-- 🌍 Passionate about **C/C++**, **PHP**, and low-level languages
-- 🔍 Constantly exploring new methods to optimize **graphic applications** and **computational modeling**
+- Passionate about **C/C++**, **PHP**, and low-level languages
+- Enthusiast in **3D graphics** and **rendering algorithms**
+- Constantly exploring new methods to thinker with **graphic applications**
 
 ---
 
