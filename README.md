@@ -1,7 +1,5 @@
 # Rhuan Lucas (Retro Artist)
 
-Curious mind for low-level languages and full-stack development. Enthusiast of 3D Engines, Passionate about experimenting with code and exploring performance, algorithms, and artistic rendering techniques!
-
 ---
 
 ## 📖 About Me
