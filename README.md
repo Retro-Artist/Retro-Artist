@@ -23,9 +23,5 @@
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
 
 <div align="center">
-  <img src="https://github.com/rhuanlucas/rhuanlucas/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
-<div align="center">
   <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
 </div>
