@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Specialist;Graphics+Programming+Enthusiast;Low-Level+Systems+Explorer;Performance+Engineering+Advocate" alt="Typing SVG" /></a>
 </div>
 
-
 ---
 ## 📖 About Me
 - Passionate about **C/C++**, **PHP**, and low-level languages
@@ -21,7 +20,3 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=flat)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House </i>
-</div>
