@@ -1,16 +1,6 @@
 # <div align="center">👨‍💻 Rhuan Lucas</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhuanlucas&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Rhuan Lucas' GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rhuanlucas&label=Profile%20Views&color=008042&style=flat" alt="Profile Views Counter" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Specialist;Graphics+Programming+Enthusiast;Low-Level+Systems+Explorer;Performance+Engineering+Advocate" alt="Typing SVG" /></a>
 </div>
 
@@ -87,74 +77,6 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </p>
 </details>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rhuanlucas&theme=github-dark&bg_color=20232a&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
-
-## <div align="center">🌟 Current Focus</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Low%20Level-Systems-blue?style=for-the-badge" alt="Low Level Systems" /><br>
-      Memory optimization, OS interfacing, performance tuning
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Real%20Time-Rendering-orange?style=for-the-badge" alt="Real Time Rendering" /><br>
-      Shaders, 3D pipelines, compute workloads
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cloud%20Native-Architecture-purple?style=for-the-badge" alt="Cloud Native Architecture" /><br>
-      Kubernetes, AWS, Azure integration patterns
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Go-Scalability-teal?style=for-the-badge" alt="Go Scalability" /><br>
-      Web-scale backend systems, concurrency patterns
-    </td>
-  </tr>
-</table>
-
-## <div align="center">📈 My GitHub Contributions</div>
-
-```
-         Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
-         ┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼
-     248 ┤                                               ╭
-     232 ┤                                             ╭─╯
-     216 ┤                                           ╭─╯  
-     200 ┤                                         ╭─╯    
-     184 ┤                                       ╭─╯      
-     168 ┤                                     ╭─╯        
-     152 ┤                               ╭─────╯          
-     136 ┤                             ╭─╯                
-     120 ┤                           ╭─╯                  
-     104 ┤                         ╭─╯                    
-      88 ┤                       ╭─╯                      
-      72 ┤                     ╭─╯                        
-      56 ┤             ╭───────╯                          
-      40 ┤           ╭─╯                                  
-      24 ┤         ╭─╯                                    
-       8 ┤╭───────╯                                       
-         └┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬
-          Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
-```
-
-## <div align="center">🔗 Let's Connect</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/rhuan-lucas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rhuan.lucas@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rhuanlucas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</div>
 
 ---
 
