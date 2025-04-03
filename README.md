@@ -23,5 +23,5 @@
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
 
 <div align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House </i>
 </div>
