@@ -1,4 +1,4 @@
-# Rhuan Lucas (Retro Artist)
+# Rhuan Lucas
 
 ---
 
