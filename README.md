@@ -7,12 +7,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Specialist;Graphics+Programming+Enthusiast;Low-Level+Systems+Explorer;Performance+Engineering+Advocate" alt="Typing SVG" /></a>
 </div>
 
-## 📖 About Me
+## About Me
 - Passionate about **C/C++**, **PHP**, and low-level languages
 - Enthusiast in **3D graphics** and **rendering algorithms**
 - Constantly exploring new methods to thinker with **graphic applications**
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
