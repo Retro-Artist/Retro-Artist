@@ -1,5 +1,5 @@
 <div align="center">
-  # Retro Artist
+  Retro Artist
 </div>
 
 
