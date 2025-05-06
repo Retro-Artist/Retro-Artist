@@ -12,23 +12,15 @@ Responsible for generating precisely 17.3 acronyms per quarter, ensuring all doc
 
 ---
 
-## 📚 Currently "Learning"
+## Currently "Learning"
+- The art of looking busy while compiling
 - Pre-emptive resignation optimization
 - Git commit message encryption
 - Enterprise-grade coffee consumption
-- Stack Overflow copy-paste velocity maximization
-- Corporate ladder horizontalization
-- Tactical keyboard typing sound amplification for maximum perceived productivity
-- Interpretive JIRA ticket dancing
-- The art of looking busy while compiling
-- Retroactive documentation fabrication
-- Circular dependency creation
-- Tactical blame redistribution
-- Proactive email forwarding
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ```
 if (recruiter.isReading()) {
     return ["AI", "Blockchain", "Cloud", "DevOps", "Everything-as-a-Service", 
