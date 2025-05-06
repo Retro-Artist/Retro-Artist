@@ -7,14 +7,6 @@ Responsible for generating precisely 17.3 acronyms per quarter, ensuring all doc
 
 ---
 
-## Currently "Learning"
-- The art of looking busy while compiling
-- Pre-emptive resignation optimization
-- Git commit message encryption
-- Enterprise-grade coffee consumption
-
----
-
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
