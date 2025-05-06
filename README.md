@@ -1,4 +1,4 @@
-# 💼 "Professional Experience"
+# "Professional Experience"
 
 ### Distinguished Fellow of Algorithmic Obfuscation
 *Ambiguity-as-a-Service Institute* | 2019 - 2023
@@ -12,17 +12,6 @@ Responsible for generating precisely 17.3 acronyms per quarter, ensuring all doc
 
 ---
 
-## 🚀 Core Competencies
-- Strategic pivot table manipulation
-- Advanced meeting survivability techniques
-- Tactical blame redistribution
-- Proactive email forwarding
-- Retroactive documentation fabrication
-- Circular dependency creation
-- Deadline elasticity engineering
-
----
-
 ## 📚 Currently "Learning"
 - Pre-emptive resignation optimization
 - Git commit message encryption
@@ -32,6 +21,10 @@ Responsible for generating precisely 17.3 acronyms per quarter, ensuring all doc
 - Tactical keyboard typing sound amplification for maximum perceived productivity
 - Interpretive JIRA ticket dancing
 - The art of looking busy while compiling
+- Retroactive documentation fabrication
+- Circular dependency creation
+- Tactical blame redistribution
+- Proactive email forwarding
 
 ---
 
