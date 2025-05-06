@@ -1,22 +1,50 @@
-<div align="center">
-  Retro Artist
-</div>
+# 💼 "Professional Experience"
 
+### Distinguished Fellow of Algorithmic Obfuscation
+*Ambiguity-as-a-Service Institute* | 2019 - 2023
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Specialist;Graphics+Programming+Enthusiast;Low-Level+Systems+Explorer;Performance+Engineering+Advocate" alt="Typing SVG" /></a>
-</div>
+Pioneered revolutionary approaches to computational complexity by deliberately introducing indecipherable code patterns that maximize billable consulting hours. Primary architect of our flagship "What Does This Even Do?" framework, which has successfully confused over 500 enterprise clients.
 
-## About Me
-- Passionate about **C/C++**, **PHP**, and low-level languages
-- Enthusiast in **3D graphics** and **rendering algorithms**
-- Constantly exploring new methods to thinker with **graphic applications**
+### Senior Principal Vice Lead of Technical Jargon Engineering
+*CorpCorp Global Solutions* | 2015 - 2019
 
-## Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
+Responsible for generating precisely 17.3 acronyms per quarter, ensuring all documentation required at least three layers of interpretation by external consultants.
+
+---
+
+## 🚀 Core Competencies
+- Strategic pivot table manipulation
+- Advanced meeting survivability techniques
+- Tactical blame redistribution
+- Proactive email forwarding
+- Retroactive documentation fabrication
+- Circular dependency creation
+- Deadline elasticity engineering
+
+---
+
+## 📚 Currently "Learning"
+- Pre-emptive resignation optimization
+- Git commit message encryption
+- Enterprise-grade coffee consumption
+- Stack Overflow copy-paste velocity maximization
+- Corporate ladder horizontalization
+- Tactical keyboard typing sound amplification for maximum perceived productivity
+- Interpretive JIRA ticket dancing
+- The art of looking busy while compiling
+
+---
+
+## 🛠️ Tech Stack
+```
+if (recruiter.isReading()) {
+    return ["AI", "Blockchain", "Cloud", "DevOps", "Everything-as-a-Service", 
+            "Fullstack", "GraphQL", "Hadoop", ...Array(26 - 8).fill("etc")];
+}
+```
+
+---
+
+If your email contains the phrase "exciting opportunity" I will automatically pipe it to /dev/null
+
+*If 'Do or do not there is no try' -- Yoda.*
