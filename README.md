@@ -24,6 +24,17 @@
 > Writing code with my own fingertips
 
 ```
+---
+
+### `"Wow, I Can't Believe it's not AI!"`
+
+Check out my process:
+```
+  [████████████████████] 100% - Code
+  [████████████████████] 100% - Code Analysis
+  [████████████████████] 100% - Peer Reviews
+  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
+```
 
 ---
 
@@ -95,17 +106,6 @@
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black)
 
 </details>
-
----
-
-### `"I Can't Believe it's not AI!"`
-
-Check out my process:
-```
-  [████████████████████] 100% - Code Analysis
-  [████████████████████] 100% - Peer Reviews
-  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
-```
 
 ---
 
