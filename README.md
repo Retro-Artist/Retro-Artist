@@ -31,10 +31,9 @@
 
 Workflow and Telemetrics:
 ```
-  [████████████████████] 100% - Coding
   [████████████████████] 100% - Code Review
   [████████████████████] 100% - Code Testing
-  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
+  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine left
 ```
 
 ---
