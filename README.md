@@ -27,7 +27,7 @@
 
 ---
 
-### `No Shortcuts, No Vibes`
+### `No Shortcuts, no AI`
 
 Workflow and Telemetrics:
 ```
