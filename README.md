@@ -26,7 +26,7 @@
 ```
 ---
 
-### `"I can't believe it's not AI!"`
+### `"Do you vibe? Answer: NO!"`
 
 Check out my process:
 ```
@@ -107,13 +107,6 @@ Check out my process:
 </details>
 
 ---
-
-```
-╔══════════════════════════════════════════════════════════╗
-║ "The best error message is the one that never shows up." ║
-║                                          — Thomas Fuchs  ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 ### `Connect With Me`
 
