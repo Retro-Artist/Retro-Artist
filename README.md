@@ -1,4 +1,4 @@
-```markdown
+
   ██████╗ ███████╗████████╗██████╗  ██████╗     
   ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗    
   ██████╔╝█████╗     ██║   ██████╔╝██║   ██║    
@@ -12,31 +12,31 @@
   ██╔══██║██╔══██╗   ██║   ██║╚════██║   ██║    
   ██║  ██║██║  ██║   ██║   ██║███████║   ██║    
   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝   ╚═╝    
-```
 
-### `$ whoami`
 
-```bash
+### $ whoami
+
+
 
 > Always working, always shipping
 > Speaks fluent regex and broken Portuguese
 > Writing code with my own fingertips
 
-```
+
 ---
 
-### `"I Can't Believe it's not AI!"`
+### "I Can't Believe it's not AI!"
 
 Check out my process:
-```
+
   [████████████████████] 100% - Code Analysis
   [████████████████████] 100% - Peer Reviews
   [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
-```
+
 
 ---
 
-### `Tools i "Definitely" use`
+### Tools i "Definitely" use
 
 <details close>
 <summary><b>Frontend & Frameworks</b></summary>
@@ -107,14 +107,14 @@ Check out my process:
 
 ---
 
-```
+
 ╔══════════════════════════════════════════════════════════╗
 ║ "The best error message is the one that never shows up." ║
 ║                                          — Thomas Fuchs  ║
 ╚══════════════════════════════════════════════════════════╝
-```
 
-### `Connect With Me`
+
+### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Retro-Artist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](#)
