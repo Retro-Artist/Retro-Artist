@@ -113,3 +113,6 @@ Workflow analysis:
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Retro-Artist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](#)
+
+---
+[![ASCII art made with patorjk](https://patorjk.com/software/taag/#p=testall&f=Babyface+Leet&t=Retro+Artist&x=none&v=4&h=4&w=80&we=false)
