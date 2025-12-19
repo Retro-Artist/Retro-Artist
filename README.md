@@ -47,14 +47,15 @@ Check out my process:
 ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Biome](https://img.shields.io/badge/Biome-FFFFFF?style=for-the-badge&logo=biome&logoColor=black)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=fastify&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-FFFFFF?style=for-the-badge&logo=turborepo&logoColor=black)
 
 </details>
 
@@ -69,9 +70,9 @@ Check out my process:
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FFFFFF?style=for-the-badge&logo=bulls&logoColor=black)
@@ -102,8 +103,6 @@ Check out my process:
 ![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-FFFFFF?style=for-the-badge&logo=swagger&logoColor=black)
-![Turborepo](https://img.shields.io/badge/Turborepo-FFFFFF?style=for-the-badge&logo=turborepo&logoColor=black)
 
 </details>
 
