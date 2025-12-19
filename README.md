@@ -81,7 +81,6 @@ Check out my process:
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)
 ![MinIO](https://img.shields.io/badge/MinIO-FFFFFF?style=for-the-badge&logo=minio&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
 
@@ -97,6 +96,7 @@ Check out my process:
 ![Zsh](https://img.shields.io/badge/Zsh-FFFFFF?style=for-the-badge&logo=zsh&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black)
 ![GitLab](https://img.shields.io/badge/GitLab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-FFFFFF?style=for-the-badge&logo=terraform&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=black)
