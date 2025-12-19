@@ -63,11 +63,10 @@ Check out my process:
 
 <br>
 
-![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)
