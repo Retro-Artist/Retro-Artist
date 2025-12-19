@@ -47,7 +47,6 @@ Check out my process:
 ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
