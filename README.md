@@ -39,7 +39,7 @@ Last workflow analysis:
 
 ---
 
-### `Tools i master indiscriminately`
+### `Tools i work with (indiscriminately)`
 
 <details close>
 <summary><b>Frontend & Frameworks</b></summary>
