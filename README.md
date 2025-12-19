@@ -39,7 +39,7 @@ Workflow and Telemetrics:
 
 ---
 
-### `Tools i work with (indiscriminately)`
+### `Tools i work with indiscriminately`
 
 <details close>
 <summary><b>Frontend & Frameworks</b></summary>
