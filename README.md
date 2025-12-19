@@ -50,19 +50,16 @@ Check out my process:
 ![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)
 ![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Biome](https://img.shields.io/badge/Biome-FFFFFF?style=for-the-badge&logo=biome&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-FFFFFF?style=for-the-badge&logo=webpack&logoColor=black)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=fastify&logoColor=black)
-![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 
 </details>
 
 <details close>
-<summary><b>Backend & Systems</b></summary>
+<summary><b>Backend & Frameworks</b></summary>
 
 <br>
 
@@ -71,17 +68,18 @@ Check out my process:
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF?style=for-the-badge&logo=rabbitmq&logoColor=black)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FFFFFF?style=for-the-badge&logo=bulls&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF?style=for-the-badge&logo=rabbitmq&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)
 
 </details>
 
