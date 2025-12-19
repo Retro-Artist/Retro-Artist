@@ -27,13 +27,13 @@
 
 ---
 
-### `"Do you vibe?" Answer: NO!`
+### `No Shortcuts, No Vibes`
 
 Workflow status:
 ```
   [████████████████████] 100% - Code
   [████████████████████] 100% - Code Analysis
-  [████████████████████] 100% - Code Reviews
+  [████████████████████] 100% - Code Review
   [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
 ```
 
