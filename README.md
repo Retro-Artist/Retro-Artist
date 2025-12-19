@@ -40,7 +40,28 @@ Check out my process:
 
 ### `Tools i "Definitely" master`
 
-<details open>
+<details close>
+<summary><b>Frontend & Frameworks</b></summary>
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=black)
+![Biome](https://img.shields.io/badge/Biome-FFFFFF?style=for-the-badge&logo=biome&logoColor=black)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
+![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=fastify&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-FFFFFF?style=for-the-badge&logo=turborepo&logoColor=black)
+
+</details>
+
+<details close>
 <summary><b>Backend & Frameworks</b></summary>
 
 <br>
@@ -66,28 +87,6 @@ Check out my process:
 ![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-
-<details close>
-<summary><b>Frontend & Frameworks</b></summary>
-
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=black)
-![Biome](https://img.shields.io/badge/Biome-FFFFFF?style=for-the-badge&logo=biome&logoColor=black)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
-![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=fastify&logoColor=black)
-![Turborepo](https://img.shields.io/badge/Turborepo-FFFFFF?style=for-the-badge&logo=turborepo&logoColor=black)
-
-</details>
-
 </details>
 
 <details close>
