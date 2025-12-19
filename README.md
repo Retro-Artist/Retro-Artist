@@ -74,7 +74,6 @@ Check out my process:
 ![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FFFFFF?style=for-the-badge&logo=bulls&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF?style=for-the-badge&logo=rabbitmq&logoColor=black)
@@ -85,6 +84,7 @@ Check out my process:
 ![MinIO](https://img.shields.io/badge/MinIO-FFFFFF?style=for-the-badge&logo=minio&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 
 </details>
 
