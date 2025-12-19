@@ -70,6 +70,7 @@ Check out my process:
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
@@ -78,9 +79,13 @@ Check out my process:
 ![BullMQ](https://img.shields.io/badge/BullMQ-FFFFFF?style=for-the-badge&logo=bulls&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF?style=for-the-badge&logo=rabbitmq&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)
+![MinIO](https://img.shields.io/badge/MinIO-FFFFFF?style=for-the-badge&logo=minio&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
 
 </details>
 
@@ -98,11 +103,6 @@ Check out my process:
 ![Terraform](https://img.shields.io/badge/Terraform-FFFFFF?style=for-the-badge&logo=terraform&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black)
-![MinIO](https://img.shields.io/badge/MinIO-FFFFFF?style=for-the-badge&logo=minio&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
 
 </details>
 
