@@ -29,7 +29,7 @@
 
 ### `No Shortcuts, No Vibes`
 
-Last workflow analysis:
+Workflow analysis:
 ```
   [████████████████████] 100% - Code
   [████████████████████] 100% - Code Review
