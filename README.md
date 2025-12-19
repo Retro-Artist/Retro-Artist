@@ -28,7 +28,7 @@
 
 ### `"Do you vibe?" Answer: NO!`
 
-Check out my process:
+Workflow status:
 ```
   [████████████████████] 100% - Code
   [████████████████████] 100% - Code Analysis
