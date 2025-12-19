@@ -24,18 +24,6 @@
 > Writing code with my own fingertips
 
 ```
----
-
-### `"Do you vibe?" Answer: NO!`
-
-Workflow status:
-```
-  [████████████████████] 100% - Code
-  [████████████████████] 100% - Code Again
-  [████████████████████] 100% - Code Analysis
-  [████████████████████] 100% - Code Reviews
-  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
-```
 
 ---
 
