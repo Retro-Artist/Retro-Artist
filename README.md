@@ -26,19 +26,19 @@
 ```
 ---
 
-### `"Wow, i can't believe it's not AI!"`
+### `"I can't believe it's not AI!"`
 
 Check out my process:
 ```
   [████████████████████] 100% - Code
   [████████████████████] 100% - Code Analysis
-  [████████████████████] 100% - Peer Reviews
+  [████████████████████] 100% - Code Reviews
   [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
 ```
 
 ---
 
-### `Tools i "Definitely" master`
+### `Tools i master indiscriminately`
 
 <details close>
 <summary><b>Frontend & Frameworks</b></summary>
