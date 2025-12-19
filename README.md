@@ -27,13 +27,14 @@
 
 ---
 
-### `No Shortcuts, no AI`
+### `"Wow, i can't believe it's not AI"`
 
 Workflow and Telemetrics:
 ```
+  [████████████████████] 100% - Coding
   [████████████████████] 100% - Code Review
   [████████████████████] 100% - Code Testing
-  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine left
+  [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
 ```
 
 ---
