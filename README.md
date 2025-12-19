@@ -88,7 +88,7 @@ Check out my process:
 </details>
 
 <details close>
-<summary><b>Developer Experience & Tools</b></summary>
+<summary><b>DevOps & Tools</b></summary>
 
 <br>
 
