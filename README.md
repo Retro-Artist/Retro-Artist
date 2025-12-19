@@ -29,7 +29,7 @@
 
 ### `No Shortcuts, No Vibes`
 
-last night's workflow analysis:
+Workflow and Telemetrics:
 ```
   [████████████████████] 100% - Code
   [████████████████████] 100% - Code Review
