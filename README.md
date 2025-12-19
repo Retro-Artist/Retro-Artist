@@ -26,7 +26,7 @@
 ```
 ---
 
-### `"Do you vibe? Answer: NO!"`
+### `"Do you vibe?" Answer: NO!`
 
 Check out my process:
 ```
