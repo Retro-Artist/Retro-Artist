@@ -21,7 +21,7 @@
 
 > Always working, always shipping
 > Speaks fluent regex and broken Portuguese
-> Writing code with my own fists
+> Writing code with my very fists
 
 ```
 
@@ -31,9 +31,9 @@
 
 Workflow and Telemetrics:
 ```
-  [████████████████████] 100% - Code
+  [████████████████████] 100% - Coding
   [████████████████████] 100% - Code Review
-  [████████████████████] 100% - Code Tests
+  [████████████████████] 100% - Code Testing
   [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
 ```
 
