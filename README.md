@@ -41,7 +41,7 @@ Workflow and Telemetrics:
 
 ### `Tools i work with indiscriminately`
 
-<details close>
+<details open>
 <summary><b>Frontend & Frameworks</b></summary>
 
 <br>
@@ -62,7 +62,7 @@ Workflow and Telemetrics:
 
 </details>
 
-<details close>
+<details open>
 <summary><b>Backend & Frameworks</b></summary>
 
 <br>
@@ -90,7 +90,7 @@ Workflow and Telemetrics:
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 </details>
 
-<details close>
+<details open>
 <summary><b>DevOps & Tools</b></summary>
 
 <br>
