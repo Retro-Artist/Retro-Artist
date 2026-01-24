@@ -29,9 +29,8 @@
 
 ### `"Wow, i can't believe it's not AI"`
 
-Workflow and Telemetrics:
+Workflow Analysis:
 ```
-  [████████████████████] 100% - Coding
   [████████████████████] 100% - Code Review
   [████████████████████] 100% - Code Testing
   [░░░░░░░░░░░░░░░░░░░░]   0% - Caffeine
