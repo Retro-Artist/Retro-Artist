@@ -19,9 +19,9 @@
 
 ```bash
 
-> Always working, always shipping
 > Speaks fluent regex and broken Portuguese
 > Writing code with my own fists
+> Always working, always shipping
 
 ```
 
