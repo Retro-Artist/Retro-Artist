@@ -45,19 +45,19 @@ Workflow Analysis:
 
 <br>
 
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-FFFFFF?style=for-the-badge&logo=livewire&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FFFFFF?style=for-the-badge&logo=svelte&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=black)
 ![Biome](https://img.shields.io/badge/Biome-FFFFFF?style=for-the-badge&logo=biome&logoColor=black)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=fastify&logoColor=black)
 ![Turborepo](https://img.shields.io/badge/Turborepo-FFFFFF?style=for-the-badge&logo=turborepo&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
 
 </details>
 
@@ -67,15 +67,14 @@ Workflow Analysis:
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-FFFFFF?style=for-the-badge&logo=php&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FFFFFF?style=for-the-badge&logo=bulls&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF?style=for-the-badge&logo=rabbitmq&logoColor=black)
@@ -83,10 +82,8 @@ Workflow Analysis:
 ![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)
-![MinIO](https://img.shields.io/badge/MinIO-FFFFFF?style=for-the-badge&logo=minio&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 </details>
 
 <details open>
